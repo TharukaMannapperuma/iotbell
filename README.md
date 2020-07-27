@@ -2,7 +2,7 @@
 
 ## IoT Smart Door Bell
 
-- This Project was done using Raspberry Pi and Pi Camera with various libraries like face_recognition, paho mqtt and etc. Main focus of this project wes to create a door bell with face recognition and voice output which user can give command and it will convert into voice. Raspbian Lite was used with SSH access for configuration purposes
+- This group Project was done using Raspberry Pi and Pi Camera with various libraries like face_recognition, paho mqtt and etc. Main focus of this project wes to create a door bell with face recognition and voice output which user can give command and it will convert into voice. Raspbian Lite was used with SSH access for configuration purposes.
 
 ## Features
 
@@ -34,3 +34,8 @@
 ### GPIO of Raspberry Pi
 
 - Using <a href="https://pypi.org/project/RPi.GPIO/">this</a> library we can control GPIO pins of the raspberry pi.
+
+##  Contributors
+1.  Akeshala Marasinghe
+2.  Nipun Dewthilina
+3.  Tharuka Mannapperuma (Myself)
