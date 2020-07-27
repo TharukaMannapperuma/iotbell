@@ -1,6 +1,6 @@
 # IoT Bell
 ## IoT Smart Door Bell
-- This Project was done using Raspberry Pi and Pi Camera with various libraries like face_recognition, paho mqtt and etc. Main focus of this project wes to create a door bell with face recognition and voice output which user can give command and it will convert into voice.
+- This Project was done using Raspberry Pi and Pi Camera with various libraries like face_recognition, paho mqtt and etc. Main focus of this project wes to create a door bell with face recognition and voice output which user can give command and it will convert into voice. Raspbian Lite was used with SSH access for configuration purposes
 
 ## Features
 1.  Face Recognition
@@ -16,3 +16,12 @@
 
 ### Text to Speech
 - Using pyttsx3 python library we can convert text messages which user send to the raspberry into a voice. more information can be found <a href="https://pypi.org/project/pyttsx3/">here</a>
+
+### Raspberry Pi Camera
+- Using <a href="https://pypi.org/project/picamera/">this</a> library we can attach raspberry pi camera to capture video and stills. Dcoumentation can be found in mentioned link
+
+### MQTT Communication
+- Using <a href="https://pypi.org/project/paho-mqtt/">this</a> library we can do MQTT communications with the MQTT server of our choice.
+
+### GPIO of Raspberry Pi
+- Using <a href="https://pypi.org/project/RPi.GPIO/">this</a> library we can control GPIO pins of the raspberry pi. 
